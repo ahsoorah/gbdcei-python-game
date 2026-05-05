@@ -1,4 +1,4 @@
-GBDCEI Build-A-Bot 🤖
+GBDCEI Build-A-Bot
 
 Welcome to GBDCEI Build-A-Bot! This is a simple, hands-on game designed to teach kids and beginners the absolute basics of Python programming.
 
